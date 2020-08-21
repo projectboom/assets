@@ -5,8 +5,10 @@ Question? Email [team@projectboom.org](team@projectboom.org) with the subject "K
 
 ## Auto updating logo
 Current logo in .SVG (vector): https://assets.projectboom.org/logos/current/logo.svg
+
 Current logo in .PNG (raster): https://assets.projectboom.org/logos/current/logo.png
 
 ## Version 1 (current logo) - does not update automatically
 Version 1 logo in .SVG (vector): https://assets.projectboom.org/logos/version-1/logo.svg
+
 Version 1 logo in .PNG (raster): https://assets.projectboom.org/logos/version-1/logo.png
