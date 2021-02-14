@@ -5,10 +5,10 @@ Question? Email [team@projectboom.org](mailto:team@projectboom.org) with the sub
 
 
 ## Auto updating logo
-Current logo in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace [extention] with the file you want: https://assets.projectboom.org/logos/current/logo.[extention]
+Current logo in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace .extention with the file you want: https://assets.projectboom.org/logos/current/logo.extention
 
 ## Version 2 (current logo) - does not update automatically
-Version 1 logo in in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace [extention] with the file you want: https://assets.projectboom.org/logos/version-2/logo.[extention]
+Version 1 logo in in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace .extention with the file you want: https://assets.projectboom.org/logos/version-2/logo.extention
 
 ## Version 1 - does not update automatically
-Version 1 logo in in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace [extention] with the file you want: https://assets.projectboom.org/logos/version-1/logo.[extention]
+Version 1 logo in in .SVG (vector), .PNG (raster), .JPG (raster), and .PDF (vector). Replace .extention with the file you want: https://assets.projectboom.org/logos/version-1/logo.extention
